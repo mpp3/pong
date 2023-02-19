@@ -3,6 +3,7 @@
 En esta práctica vas a escribir un programa que produzca el siguiente resultado:
 
 ![Pong](pong.mp4)
+<video src="pong.mp4"></video>
 
 Los rectángulos se mueven con el teclado. El rectángulo rojo se mueve con las teclas `W` y `S`, el rectángulo verde con las flechas.
 
